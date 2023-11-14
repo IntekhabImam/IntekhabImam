@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*FGD6BUzzZs1VJLuY.gif)](https://intekhabimam.github.io/my-portfolio.github.io/?fbclid=PAAabZgu4LOAVqg-o0NMSbVHUHAm-j_xU-aASJeo5YXVxMtA6YmZ5BpIpAp8k)
+[![MasterHead](https://arkalivebackup.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-2.jpg)](https://intekhabimam.github.io/my-portfolio.github.io/?fbclid=PAAabZgu4LOAVqg-o0NMSbVHUHAm-j_xU-aASJeo5YXVxMtA6YmZ5BpIpAp8k)
 <h1 align="center">Hi 👋, I'm Intekhab Imam</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

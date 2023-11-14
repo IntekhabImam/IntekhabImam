@@ -1,7 +1,7 @@
 [![MasterHead](https://arkalivebackup.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-2.jpg)](https://intekhabimam.github.io/my-portfolio.github.io/?fbclid=PAAabZgu4LOAVqg-o0NMSbVHUHAm-j_xU-aASJeo5YXVxMtA6YmZ5BpIpAp8k)
 <h1 align="center">Hi 👋, I'm Intekhab Imam</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intekhabimam&label=Profile%20views&color=0e75b6&style=flat" alt="intekhabimam" /> </p>
 
 <p align="left"> <a href="https://twitter.com/intekhabji" target="blank"><img src="https://img.shields.io/twitter/follow/intekhabji?logo=twitter&style=for-the-badge" alt="intekhabji" /></a> </p>
